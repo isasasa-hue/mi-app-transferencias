@@ -365,5 +365,5 @@ def historial():
     '''
     return page_template("Historial de Transferencias", tabla)
 
-if __name__ == '__main__':
-    app.run(debug=True)
+#if __name__ == '__main__':
+ #   app.run(debug=True)
